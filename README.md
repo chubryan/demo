@@ -4,6 +4,6 @@ This is a simple README file.
 Adding another line
 
 ## another sentence
-conflict resolution
+Trouble double
 
 
